@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "email": "ando@mail.com",
+      "password": "$2a$10$tNidpuyukss5s45qKCBDtOax0rVniAehojQgbeVtFggqKlRRHWlDa",
+      "id": 1
+    },
+    {
+      "email": "ando2@mail.com",
+      "password": "$2a$10$chH84waNzGeKtEu7CzwfMuDyy.VdKhuALVDTrNZ49j1i0Z.b5Gywi",
+      "id": 2
+    },
+    {
+      "email": "ando3@mail.com",
+      "password": "$2a$10$VGd86p/oNFbUpFnxEhBaPeoIpf7c0A92SEacRsqvl2kR0Jw6g7N3e",
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "Updating huntr",
+      "isDone": true
+    },
+    {
+      "title": "Testing Add Todo 2",
+      "userId": 1,
+      "isDone": true,
+      "id": 6
+    },
+    {
+      "title": "Testing Add Todo 3",
+      "userId": 1,
+      "isDone": true,
+      "id": 7
+    },
+    {
+      "title": "Testing Todo If Its Done",
+      "userId": 1,
+      "isDone": true,
+      "id": 8
+    },
+    {
+      "title": "Testing Add Todo 4",
+      "userId": 1,
+      "isDone": true,
+      "id": 9
+    },
+    {
+      "title": "Testing Add Todo 5 After Edit",
+      "userId": 1,
+      "isDone": true,
+      "id": 10
+    },
+    {
+      "title": "Learning Next.js",
+      "userId": 1,
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "title": "Make online portofolio 2",
+      "userId": 1,
+      "isDone": false,
+      "id": 12
+    }
+  ]
+}
