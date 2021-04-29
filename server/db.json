@@ -14,6 +14,16 @@
       "email": "ando3@mail.com",
       "password": "$2a$10$VGd86p/oNFbUpFnxEhBaPeoIpf7c0A92SEacRsqvl2kR0Jw6g7N3e",
       "id": 3
+    },
+    {
+      "email": "matthew@mail.com",
+      "password": "$2a$10$WkVjJA9eiqesyKgG/1bd1eYRiDQVLqUjCmO3g6hrK.gh72SDZ3uB2",
+      "id": 4
+    },
+    {
+      "email": "legends@mail.com",
+      "password": "$2a$10$lSp9.ttpUSax9Pl/8A2GHOsCcmmIdNpFw2gvMGGw/WkOBJ9wuKPY2",
+      "id": 5
     }
   ],
   "todos": [
