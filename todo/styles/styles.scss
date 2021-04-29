@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Dosis&family=Padauk&display=swap');
+
+// Set your brand colors
+$orange: #ffa62b;
+$dark-orange: #db6400;
+$milk: #f8f1f1;
+$dark-tosca: #16697a;
+
+// Update Bulma's global variables
+$primary: $orange;
+$dark: $dark-orange;
+$info: $dark-tosca;
+$link: $milk;
+
+$family-primary: "Bitter", serif;
+$family-sans-serif: "Padauk", sans-serif;
+
+//update components
+
+//form
+$input-color: $dark-tosca;
+$input-background-color: $milk;
+$input-hover-border-color: $dark-tosca; 
+$input-focus-border-color: $dark-tosca;
+$input-focus-box-shadow-color: 'none';
+
+//button
+$button-background-color: $milk;
+$button-border-color: 'none';
+$button-focus-border-color: $dark-tosca;
+
+@import '../node_modules/bulma/bulma.sass';
